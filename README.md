@@ -15,7 +15,7 @@
 
 ### :globe_with_meridians: Contact Me :
 ---
-[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/sowrabha-a-/)
+[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sowrabha-a-/)
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-SOWRABHA_A-orange)](https://leetcode.com/SOWRABHA_A/)
 <br>
 
