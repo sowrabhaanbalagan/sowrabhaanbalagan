@@ -10,7 +10,7 @@
 ### :woman_technologist: About Me :
 ---
 - 👀 I’m interested in <b>Full Stack Development</b> <br>
-- 🌱 I’m currently learning <b>React</b><br>
+- 🌱 I’m currently learning <b>React along with Redux</b><br>
 - 📫 How to reach me sowrabhaanbalagan@gmail.com<br>
 
 ### :globe_with_meridians: Connect with Me :
